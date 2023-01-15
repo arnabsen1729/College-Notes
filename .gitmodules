@@ -1,0 +1,27 @@
+[submodule "Algorithms-Lab-01"]
+	path = Algorithms-Lab-01
+	url = https://github.com/arnabsen1729/Algorithms-Lab-01
+[submodule "Programming-Paradigm-Lab"]
+	path = Programming-Paradigm-Lab
+	url = https://github.com/arnabsen1729/Programming-Paradigm-Lab
+[submodule "Graphics-Lab"]
+	path = Graphics-Lab
+	url = https://github.com/arnabsen1729/Graphics-Lab
+[submodule "DBMS-Lab"]
+	path = DBMS-Lab
+	url = https://github.com/arnabsen1729/DBMS-Lab
+[submodule "Microprocessor-Lab"]
+	path = Microprocessor-Lab
+	url = https://github.com/arnabsen1729/Microprocessor-Lab
+[submodule "Operating-System-Lab"]
+	path = Operating-System-Lab
+	url = https://github.com/arnabsen1729/Operating-System-Lab
+[submodule "Networking-Lab"]
+	path = Networking-Lab
+	url = https://github.com/arnabsen1729/Networking-Lab
+[submodule "Compiler-Design-Lab"]
+	path = Compiler-Design-Lab
+	url = https://github.com/arnabsen1729/Compiler-Design-Lab
+[submodule "Machine-Learning-Lab"]
+	path = Machine-Learning-Lab
+	url = https://github.com/arnabsen1729/Machine-Learning-Lab
